@@ -1,0 +1,91 @@
+# 👋 Hi, I'm Apple Mahmud
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Frontend+Developer;React+%26+JavaScript+Enthusiast;Focused+on+Becoming+a+Strong+Full-Stack+Developer;Clean+UI+%7C+Scalable+Code" />
+</p>
+
+<p align="center">
+  <strong>Frontend Developer | React & JavaScript | Focused on Full-Stack Development</strong>
+</p>
+
+---
+
+## 🧠 About Me
+
+- 🎓 **B.Sc. in Computer Science & Engineering**
+- 🎯 Currently focused on **Frontend Development**
+- ⚛️ Specialized in **React & modern JavaScript**
+- 🔜 Will transition into **Full-Stack (MERN)** step by step
+- 🧩 Strong believer in fundamentals, clean UI & scalable code
+
+---
+
+## 🔥 Languages • Frameworks • Tools 🔥
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=7" />
+</p>
+
+---
+
+## 🎨 Frontend Skills
+
+- HTML5, CSS3
+- JavaScript (ES6+)
+- TypeScript (Basic)
+- React.js
+- Redux (Basic)
+- Tailwind CSS
+
+---
+
+## ⚙️ Backend (Learning)
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+
+---
+
+## 🧰 Tools & Workflow
+
+- Git & GitHub
+- VS Code
+- Postman
+- Modern frontend workflow
+- Component-driven development
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚧 Currently Working On
+
+- Advanced **React patterns & performance**
+- Strengthening **core JavaScript**
+- Building **real-world frontend projects**
+- Preparing for **Frontend Developer roles**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **applemahmud.personal@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/applemahmud7**
+- 📘 Facebook: **https://www.facebook.com/applemahmudifty**
+- 🌍 Location: Bangladesh 🇧🇩
+
+---
+
+⭐ _If you like my work, consider giving a star!_
