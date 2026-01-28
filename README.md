@@ -28,13 +28,13 @@
 
 ---
 
-## 🧩 CMS & Website Builders (Professional Experience)
+## 🧩 CMS & Website Builders
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow,wix&perline=6" />
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow&perline=6" />
 </p>
 
-- **WordPress (Advanced)**
+- **WordPress**
   - Elementor — advanced page building & layout optimization
   - WooCommerce — eCommerce setup, customization & payments
   - Custom theme tweaks & plugin configuration
