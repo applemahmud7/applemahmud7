@@ -28,6 +28,32 @@
 
 ---
 
+## 🧩 CMS & Website Builders (Professional Experience)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,wix&perline=6" />
+</p>
+
+- **WordPress (Advanced)**
+  - Elementor — advanced page building & layout optimization
+  - WooCommerce — eCommerce setup, customization & payments
+  - Custom theme tweaks & plugin configuration
+  - Performance, security & SEO best practices
+
+- **Webflow**
+  - Responsive layout design
+  - Clean UI-focused builds
+  - Basic interactions & animations
+
+- **Wix**
+  - **Velo (Wix)** — custom logic, backend functions & API integrations
+  - Business & portfolio websites
+  - Custom layouts with Wix Editor / Wix Studio
+
+
+
+---
+
 ## 🎨 Frontend Skills
 
 - HTML5, CSS3
