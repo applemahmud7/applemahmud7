@@ -20,19 +20,17 @@
 
 ---
 
-## 🔥 Languages • Frameworks • Tools 🔥
+## 🔥 Languages • Frameworks • Tools • CMS 🔥
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,git,github,vscode,postman,wordpress,webflow&perline=8" />
 </p>
 
 ---
 
 ## 🧩 CMS & Website Builders
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,webflow&perline=6" />
-</p>
+
 
 - **WordPress**
   - Elementor — advanced page building & layout optimization
@@ -46,7 +44,7 @@
   - Basic interactions & animations
 
 - **Wix**
-  - **Velo (Wix)** — custom logic, backend functions & API integrations
+  - **Velo** — custom logic, backend functions & API integrations
   - Business & portfolio websites
   - Custom layouts with Wix Editor / Wix Studio
 
