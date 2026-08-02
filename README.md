@@ -11,7 +11,6 @@
 ---
 
 ## 🧠 About Me
-
 - 🎓 **B.Sc. in Computer Science & Engineering**
 - 🎯 Currently focused on **Frontend Development**
 - ⚛️ Specialized in **React & modern JavaScript**
@@ -29,31 +28,31 @@
 ---
 
 ## 🧩 CMS & Website Builders
-
-
-
 - **WordPress**
   - Elementor — advanced page building & layout optimization
   - WooCommerce — eCommerce setup, customization & payments
   - Custom theme tweaks & plugin configuration
   - Performance, security & SEO best practices
-
 - **Webflow**
   - Responsive layout design
   - Clean UI-focused builds
   - Basic interactions & animations
-
 - **Wix**
   - **Velo** — custom logic, backend functions & API integrations
   - Business & portfolio websites
   - Custom layouts with Wix Editor / Wix Studio
 
+---
 
+## 📁 CMS Project Showcase
+
+A curated list of **Wix** and **WordPress** websites I've built for clients — organized by website type with live links.
+
+👉 **[View my full CMS portfolio →](https://github.com/applemahmud7/cms-portfolio)**
 
 ---
 
 ## 🎨 Frontend Skills
-
 - HTML5, CSS3
 - JavaScript (ES6+)
 - TypeScript (Basic)
@@ -64,7 +63,6 @@
 ---
 
 ## ⚙️ Backend (Learning)
-
 - Node.js
 - Express.js
 - MongoDB
@@ -73,7 +71,6 @@
 ---
 
 ## 🧰 Tools & Workflow
-
 - Git & GitHub
 - VS Code
 - Postman
@@ -95,7 +92,6 @@
 ---
 
 ## 🚧 Currently Working On
-
 - Advanced **React patterns & performance**
 - Strengthening **core JavaScript**
 - Building **real-world frontend projects**
@@ -104,7 +100,6 @@
 ---
 
 ## 📫 Connect With Me
-
 - 📧 Email: **applemahmud.personal@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/applemahmud7**
 - 📘 Facebook: **https://www.facebook.com/applemahmudifty**
