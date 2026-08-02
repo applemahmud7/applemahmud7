@@ -82,11 +82,12 @@ A curated list of **Wix** and **WordPress** websites I've built for clients — 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=applemahmud7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=applemahmud7&show_icons=true&theme=dark&hide_border=true&count_private=false" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemahmud7&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=applemahmud7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=applemahmud7&theme=dark&hide_border=true" />
 </p>
 
 ---
